@@ -8,8 +8,6 @@ The **Food Delivery Time Prediction Model** aims to accurately estimate the time
 
 ## 📊 Methodology
 
-![Methodology](https://github.com/Kaushik-Puttaswamy/Food-Delivery-Time-Prediction-Using-Machine-Learning/blob/main/Methodology.png)
-
 ### a) Data Collection
 - Collected from a provided dataset containing:
   - Order details
