@@ -66,10 +66,9 @@ The **Food Delivery Time Prediction Model** aims to accurately estimate the time
 | File/Folder                          | Description                                              |
 |-------------------------------------|----------------------------------------------------------|
 | `Food-Delivery-Time-Prediction-Using-Machine-Learning.ipynb` | Notebook for model training and evaluation             |
-| `Location_finder_api.ipynb`         | Uses OpenCage API to convert addresses to coordinates    |
 | `model.pkl`                         | Serialized trained model                                 |
 | `scaler.pkl`                        | Scaler object used during preprocessing                  |
-| `requirements.txt`                  | Python dependencies list                                 |
+                              
 
 ---
 
